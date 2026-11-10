@@ -329,21 +329,27 @@
     "M.Sc. in Computer Engineering, Institute for Advanced Studies in Basic Sciences (IASBS), Zanjan"
     ]
   },
+  {
+    "name": "Niloofar Mousavi",
+    "linkedin": "https://www.linkedin.com/in/niloofar-mousavi-8919a0146/",
+    "education": [
+      "کارشناسی مهندسی کامپیوتر، دانشگاه شهید بهشتی",
+      "کارشناسی ارشد مدیریت کسب‌وکار، دانشگاه الزهرا"
 
-{
-  "name": "Niloofar Mousavi",
-  "linkedin": "https://www.linkedin.com/in/niloofar-mousavi-8919a0146/",
-  "education": [
-    "کارشناسی مهندسی کامپیوتر، دانشگاه شهید بهشتی",
-    "کارشناسی ارشد مدیریت کسب‌وکار، دانشگاه الزهرا"
-    
-  ],
-  "experience": [
-    "برنامه‌نویس فرانت‌اند"
-  ]
-}
-
-
-
-  
+    ],
+    "experience": [
+      "برنامه‌نویس فرانت‌اند"
+    ]
+  },
+  {
+    "name": "Parham Davari",
+    "linkedin": "https://www.linkedin.com/in/parhamdavari/",
+    "avatar": "https://github.com/parhamdavari.png",
+    "education": [
+      "M.Sc. in Software Engineering, University of Tehran"
+    ],
+    "experience": [
+      "AI Engineer at Oraclous"
+    ]
+  }
 ]
