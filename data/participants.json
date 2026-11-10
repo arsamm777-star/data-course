@@ -312,6 +312,17 @@
     "avatar": "https://github.com/Hadiishee.png"
   },
   {
+    "name": "مریم جلیلیان",
+    "linkedin": "https://www.linkedin.com/in/maryamjalilian/",
+    "avatar": "https://github.com/marjalilian.png",
+    "education": [
+      "کارشناسی مهندسی کامپیوتر، دانشگاه رازی"
+    ],
+    "experience": [
+      "تحلیلگر سیستم"
+    ]
+  },
+  {
     "name": "AmirHossein Salehi",
     "education": [
     "B.Sc. in Computer Engineering, University of Zanjan",
