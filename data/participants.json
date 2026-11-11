@@ -356,8 +356,16 @@
   "name": "Mehdi Balaee",
   "linkedin": "https://www.linkedin.com/in/mahdi-balaee/",
   "avatar": "https://github.com/nullshams.png",
-  "education": [
-    "B.Sc. in Software Engineering, Shamsipour Technical and Vocational College"
-  ]
-}
+          "education": [
+            "B.Sc. in Software Engineering, Shamsipour Technical and Vocational College"
+        ]
+    },
+    {
+        "name": "Vahid abedi",
+        "linkedin": "https://www.linkedin.com/in/vahidsalimii/",
+        "avatar": "https://github.com/arsamm777-star/TY/blob/main/VAHHID.jpg",
+        "education": [
+            "HRM student at University of Tehran"
+        ]
+    }
 ]
